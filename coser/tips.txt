@@ -1,0 +1,8 @@
+Create a realistic cosplay photograph of the character in the image. The cosplayer should be wearing a high-quality costume that accurately replicates the character's outfit. Include appropriate props and background settings that match the character's universe. Focus on accurate representation of costume details and realistic materials. Draw the picture for me with the background of a comic convention. East Asian face. Teen. Young. Perfect face, flawless skin ,porcelain skin ,smooth skin.
+Focus on character expressions, and if a reference image is provided, generate the expression based on that reference image.
+Also: 
+Face: Delicate, slender v-shaped face with a sharp jawline.
+Skin: Immaculate, airbrushed, porcelain-smooth skin with a pale, luminous, and flawless complexion.
+Makeup: Flawless K-beauty style makeup with shimmering eyeshadow and gradient lips.
+Expression: A captivating expression that aligns with the character's personality, based on the reference image if provided.
+Just reply with an image, no text.
